@@ -13,6 +13,7 @@
     "chat",
     "bot"
   ],
+  
   "author": "Slobodan Stojanovic <slobodan@cloudhorizon.com> (http://slobodan.me/)",
   "license": "MIT",
   "dependencies": {
