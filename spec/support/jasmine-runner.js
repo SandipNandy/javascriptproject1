@@ -7,6 +7,7 @@ var Jasmine = require('jasmine'),
   
   jrunner = new Jasmine(),
   filter
+
 process.argv.slice(2).forEach(option => {
   'use strict'
   if (option === 'full') {
