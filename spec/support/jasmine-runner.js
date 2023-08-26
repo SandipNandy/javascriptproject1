@@ -4,6 +4,7 @@ var Jasmine = require('jasmine'),
   
   SpecReporter = require('jasmine-spec-reporter'),
   noop = function () {},
+  
   jrunner = new Jasmine(),
   filter
 process.argv.slice(2).forEach(option => {
