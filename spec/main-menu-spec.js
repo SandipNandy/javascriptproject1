@@ -4,7 +4,6 @@
 const mainMenu = require('../lib/main-menu')
 const expected = {
   attachment: {
-    
     type: 'template',
     
     payload: {
