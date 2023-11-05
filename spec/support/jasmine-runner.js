@@ -5,6 +5,7 @@ var Jasmine = require('jasmine'),
   SpecReporter = require('jasmine-spec-reporter'),
   
   noop = function () {},
+  
   jrunner = new Jasmine(),
   filter
 
