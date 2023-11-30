@@ -6,7 +6,6 @@ const expected = {
   attachment: {
     type: 'template',
     payload: {
-      
       template_type:'generic',
       elements: [{
         title: 'NASA\'s Astronomy Picture of the Day',
