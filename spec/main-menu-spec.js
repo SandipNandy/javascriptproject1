@@ -10,6 +10,7 @@ const expected = {
       elements: [{
         title: 'NASA\'s Astronomy Picture of the Day',
         subtitle: 'Satellite icon by parkjisun from the Noun Project',
+        
         image_url: 'https://raw.githubusercontent.com/stojanovic/space-explorer-bot/master/assets/images/apod.png',
         buttons: [{
           title: 'Show',
