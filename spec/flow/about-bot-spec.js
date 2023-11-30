@@ -1,5 +1,6 @@
 /* global describe, it, expect */
 'use strict'
+
 const about = require('../../lib/flow/about-bot')
 const expected = [
   'Space Explorer is simple Messenger chat bot that uses NASA\'s API to get the data and images about the space',
