@@ -13,6 +13,7 @@ const expected = [
         text: 'More actions:',
         buttons: [{
           title: 'Show photo',
+          
           type: 'postback',
           payload: 'SHOW_APOD'
         }, {
