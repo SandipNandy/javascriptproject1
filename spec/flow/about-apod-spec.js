@@ -15,6 +15,7 @@ const expected = [
           title: 'Show photo',
           
           type: 'postback',
+          
           payload: 'SHOW_APOD'
         }, {
           title: 'Visit website',
