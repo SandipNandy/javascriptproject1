@@ -7,6 +7,7 @@ var Jasmine = require('jasmine'),
   filter
 
 process.argv.slice(2).forEach(option => {
+  
   'use strict'
   if (option === 'full') {
     jrunner.configureDefaultReporter({print: noop}) // remove default reporter logs
