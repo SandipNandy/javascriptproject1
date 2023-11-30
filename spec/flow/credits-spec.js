@@ -6,6 +6,7 @@ const expected = [
   'Claudia Bot Builder was created by Gojko Adžić, Aleksandar Simović and Slobodan Stojanović',
   
   'Icons used for the bot are from the Noun Project',
+  
   '- Rocket icon by misirlou, \n- Satellite icon by parkjisun, \n- Curiosity Rover icon by Oliviu Stoian, \n- Monster icon by Paulo Sá Ferreira',
   'This bot was created by Claudia Bot Builder team',
   {
