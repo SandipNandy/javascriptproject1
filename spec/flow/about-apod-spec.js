@@ -1,5 +1,6 @@
 /* global describe, it, expect */
 'use strict'
+
 const aboutApod = require('../../lib/flow/about-apod')
 
 const expected = [
