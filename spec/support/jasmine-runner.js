@@ -15,6 +15,7 @@ process.argv.slice(2).forEach(option => {
     jasmine.getEnv().addReporter(new SpecReporter()) // add jasmine-spec-reporter
   }
   if (option.match('^filter=')) {
+    
     filter = option.match('^filter=(.*)')[1]
   }
 })
