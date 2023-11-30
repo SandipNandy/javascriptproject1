@@ -1,6 +1,7 @@
 /* global describe, it, expect */
 'use strict'
 const credits = require('../../lib/flow/credits')
+
 const expected = [
   'Claudia Bot Builder was created by Gojko Adžić, Aleksandar Simović and Slobodan Stojanović',
   'Icons used for the bot are from the Noun Project',
