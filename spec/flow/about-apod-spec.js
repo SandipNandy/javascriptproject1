@@ -10,6 +10,7 @@ const expected = [
     attachment: {
       
       type: 'template',
+      
       payload: {
         template_type: 'button',
         text: 'More actions:',
