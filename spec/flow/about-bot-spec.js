@@ -2,6 +2,7 @@
 'use strict'
 
 const about = require('../../lib/flow/about-bot')
+
 const expected = [
   'Space Explorer is simple Messenger chat bot that uses NASA\'s API to get the data and images about the space',
   'It\'s created for fun and also as a showcase for Claudia Bot Builder, node.js library for creating chat bots for various platform and deploying them on AWS Lambda',
