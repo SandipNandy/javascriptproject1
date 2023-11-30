@@ -9,6 +9,7 @@ const expected = [
   'It\'s created for fun and also as a showcase for Claudia Bot Builder, node.js library for creating chat bots for various platform and deploying them on AWS Lambda',
   {
     attachment: {
+      
       type: 'template',
       payload: {
         template_type: 'button',
