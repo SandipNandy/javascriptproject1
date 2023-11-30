@@ -16,6 +16,7 @@ const expected = [
         text: 'More actions:',
         buttons: [{
           title: 'Claudia Bot Builder',
+          
           type: 'web_url',
           url: 'https://github.com/claudiajs/claudia-bot-builder'
         }, {
