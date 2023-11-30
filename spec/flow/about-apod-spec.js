@@ -8,6 +8,7 @@ const expected = [
   'Each day a different image or photograph of our fascinating universe is featured, along with a brief explanation written by a professional astronomer.',
   {
     attachment: {
+      
       type: 'template',
       payload: {
         template_type: 'button',
