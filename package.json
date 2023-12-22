@@ -5,7 +5,6 @@
   "main": "bot.js",
   "scripts": {
     "pretest": "eslint lib spec *.js",
-    
     "test": "node spec/support/jasmine-runner.js",
     
     "debug": "node debug spec/support/jasmine-runner.js"
