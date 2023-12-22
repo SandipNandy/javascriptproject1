@@ -2,7 +2,6 @@
   "name": "space-explorer-bot",
   "version": "1.0.0",
   "description": "Chat bot that explores the space",
-  
   "main": "bot.js",
   
   "scripts": {
