@@ -1,5 +1,6 @@
 {
   "extends": "defaults",
+  
   "env": {
     "node": true,
     "es6": true
