@@ -4,6 +4,7 @@
   "version": "1.0.0",
   
   "description": "Chat bot that explores the space",
+  
   "main": "bot.js",
   "scripts": {
     "pretest": "eslint lib spec *.js",
